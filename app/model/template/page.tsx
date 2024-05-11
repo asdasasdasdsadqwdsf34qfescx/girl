@@ -1,10 +1,4 @@
-export const videos = [
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "",
-  },
-];
+import { videos } from "@/app/util/modelList";
 
 export default function Home() {
   return (

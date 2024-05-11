@@ -379,4 +379,12 @@ export const o0o = [
       src: "https://mega.nz/embed/rckjgZqC#UUJUfP3QCZhCpeqp2lX53MlZTmnvQCC6FREYj8bRyvM",
     },
   ];
+
   
+  export const videos = [
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "",
+    },
+  ];

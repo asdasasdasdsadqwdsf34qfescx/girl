@@ -1,19 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import { akaikoneko } from "../model/akaikoneko/page";
-import { m8a8ytip } from "../model/m8a8ytip/page";
-import { acemorton } from "../model/acemorton/page";
-import { ainaschavell } from "../model/ainaschavell/page";
-import { aio_lovee } from "../model/aio_lovee/page";
-import { alala } from "../model/alala/page";
-import { lovelyen } from "../model/lovelyen/page";
-import { maksim } from "../model/maksim/page";
-import { mercelina } from "../model/mercelina/page";
-import { o0o } from "../model/o0o/page";
-import { witch } from "../model/witch/page";
-import { alicebels } from "../model/alicebels/page";
-import { allotropp } from "../model/allotropp/page";
-import { aarilaviee } from "../util/modelList";
+import { aarilaviee, acemorton, ainaschavell, aio_lovee, akaikoneko, alala, alicebels, allotropp, lovelyen, m8a8ytip, maksim, mercelina, o0o, witch } from "../util/modelList";
 
 const MyComponent = () => {
 

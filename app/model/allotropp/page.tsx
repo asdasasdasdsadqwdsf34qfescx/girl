@@ -1,20 +1,4 @@
-export const allotropp = [
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "CY1SHRhD#vaeb9TiekRPn2LaC7znuTBk5ZLXEw7LEoLxkwiBgphc",
-  },
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "addTjb6L#XAe_757G4QZQ7YtsxiKIhbF8n3V2pZsNwz7d3p68zqk",
-  },
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "LJUVgYLL#ocBD0_il5mgDL3pxdvwz9wZleuEBBj6reN8kI93PomM",
-  },
-];
+import { allotropp } from "@/app/util/modelList";
 
 export default function Home() {
   return (

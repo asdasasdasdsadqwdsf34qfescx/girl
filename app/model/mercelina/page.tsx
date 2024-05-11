@@ -1,20 +1,5 @@
-export const mercelina = [
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "7dMRRa7K#MRr9cbcu3hqy6va35oG_bdmN5ngNvi1mjxnE8sY_D-o",
-  },
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "nJ0jCSJQ#I0tHRezPVvhUvoKiKdMPn1jBA9BMvP6Gz8FOudKW8po",
-  },
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "fZ8i0CwY#7HuIBSljOcIMvPKO9C5Vpebk7ZD5Qu8gG3Y0XxdjeGk",
-  },
-];
+import { mercelina } from "@/app/util/modelList";
+
 
 export default function Home() {
   return (

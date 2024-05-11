@@ -1,28 +1,4 @@
-export const m8a8ytip = [
-  {
-    src: "https://mega.nz/embed/qQkWXR5R#1JRor8JxNVBM8KSuC1JCqDz-cW-lbPmTffNG41Gy6Ng",
-  },
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "7IcUmSRI#Kgfu7ktAobigMKAI74yPiIeEoBSCKsI_vMInXP8dYHY",
-  },
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "iNtC1bxI#-HW2TPRSMehbdeKIHATw1jY67FdKYtofUtsiTWjSqMU",
-  },
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "mNMCQTqY#k0PAZsHwB5w6JI7P6F1DxSjhNUprVfRqCvHgzxYrTsg",
-  },
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "Ld80Sb5Q#xdnOjYTz_udzRKHeBwe1Kf8OPoU_g0Ibfgpb6-_heGg",
-  },
-];
+import { m8a8ytip } from "@/app/util/modelList";
 
 export default function Home() {
   return (

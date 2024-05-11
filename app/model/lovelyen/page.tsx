@@ -1,20 +1,5 @@
-export const lovelyen = [
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "jA1VELyY#YmA8tnEXDCDplUluGXNXGuiYuy25iF2fJOyizkFD04s",
-  },
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "fF1wxRJY#v4CzBq1ysqyYXWrroORzrc1ZktNRB-y1pdg3OSN-Q74",
-  },
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "KVNnGSTR#gt3BH8d9g3ypa-FcwlSjgFRAhLZjvyfOIWG1fSe5y_Q",
-  },
-];
+import { lovelyen } from "@/app/util/modelList";
+
 
 export default function Home() {
   return (

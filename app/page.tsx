@@ -14,7 +14,6 @@ const models = [
   { name: "aio_lovee", imgSrc: "/aio_lovee.png"},
   { name: "akaikoneko", imgSrc: "/akai_koneko.png"},
   { name: "alicebels", imgSrc: "/alicebels.png"},
-
   { name: "allotropp", imgSrc: "/allotropp.png"},
 
 

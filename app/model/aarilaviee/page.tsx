@@ -1,4 +1,4 @@
-export const aarilaviee = [
+ const aarilaviee = [
   {
     src:
       "https://mega.nz/embed/" +

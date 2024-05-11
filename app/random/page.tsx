@@ -2,7 +2,6 @@
 import React, { useState } from "react";
 import { akaikoneko } from "../model/akaikoneko/page";
 import { m8a8ytip } from "../model/m8a8ytip/page";
-import { aarilaviee } from "../model/aarilaviee/page";
 import { acemorton } from "../model/acemorton/page";
 import { ainaschavell } from "../model/ainaschavell/page";
 import { aio_lovee } from "../model/aio_lovee/page";
@@ -20,7 +19,6 @@ const MyComponent = () => {
   const availableLinks = [
     ...akaikoneko,
     ...m8a8ytip,
-    ...aarilaviee,
     ...acemorton,
     ...ainaschavell,
     ...aio_lovee,

@@ -1,26 +1,18 @@
-export const m8a8ytip = [
+export const allotropp = [
   {
-    src: "https://mega.nz/embed/qQkWXR5R#1JRor8JxNVBM8KSuC1JCqDz-cW-lbPmTffNG41Gy6Ng",
+    src:
+      "https://mega.nz/embed/" +
+      "CY1SHRhD#vaeb9TiekRPn2LaC7znuTBk5ZLXEw7LEoLxkwiBgphc",
   },
   {
     src:
       "https://mega.nz/embed/" +
-      "7IcUmSRI#Kgfu7ktAobigMKAI74yPiIeEoBSCKsI_vMInXP8dYHY",
+      "addTjb6L#XAe_757G4QZQ7YtsxiKIhbF8n3V2pZsNwz7d3p68zqk",
   },
   {
     src:
       "https://mega.nz/embed/" +
-      "iNtC1bxI#-HW2TPRSMehbdeKIHATw1jY67FdKYtofUtsiTWjSqMU",
-  },
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "mNMCQTqY#k0PAZsHwB5w6JI7P6F1DxSjhNUprVfRqCvHgzxYrTsg",
-  },
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "Ld80Sb5Q#xdnOjYTz_udzRKHeBwe1Kf8OPoU_g0Ibfgpb6-_heGg",
+      "LJUVgYLL#ocBD0_il5mgDL3pxdvwz9wZleuEBBj6reN8kI93PomM",
   },
 ];
 
@@ -34,7 +26,7 @@ export default function Home() {
         gap: "20px",
       }}
     >
-      {m8a8ytip.map((video, index) => (
+      {allotropp.map((video, index) => (
         <iframe
           key={index}
           width="640"

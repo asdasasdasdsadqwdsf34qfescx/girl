@@ -1,5 +1,5 @@
 
-const videos = [
+export const o0o = [
   {
     src: "https://mega.nz/embed/nZkmwLZZ#qpTKonNuEuC7DK8Ug3yQPwXBARDa7FVC_SIL-6pngf8",
   },
@@ -27,7 +27,7 @@ export default function Home() {
         gap: "20px",
       }}
     >
-      {videos.map((video, index) => (
+      {o0o.map((video, index) => (
         <iframe
           key={index}
           width="640"

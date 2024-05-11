@@ -7,7 +7,17 @@ const models = [
   { name: "lovelyen", imgSrc: "/_lovelyen.png" },
   { name: "o0o", imgSrc: "/_o0o__.png" },
   { name: "witch", imgSrc: "/_witch__.png" },
-  { name: "8a8ytip", imgSrc: "/8a8ytip.png"}
+  { name: "8a8ytip", imgSrc: "/8a8ytip.png"},
+  { name: "aarilaviee", imgSrc: "/aarilaviee.png"},
+  { name: "acemorton", imgSrc: "/ace_morton.png"},
+  { name: "ainaschavell", imgSrc: "/ainaschavell.png"},
+  { name: "aio_lovee", imgSrc: "/aio_lovee.png"},
+  { name: "akaikoneko", imgSrc: "/akai_koneko.png"},
+  { name: "alicebels", imgSrc: "/alicebels.png"},
+
+  { name: "allotropp", imgSrc: "/allotropp.png"},
+
+
 ];
 
 const MyComponent = () => {
@@ -18,7 +28,7 @@ const MyComponent = () => {
           <img
             src={model.imgSrc}
             alt="Model Image"
-            className="w-48 h-auto m-2"
+            className="w-40 h-auto m-4"
           />
         </Link>
       ))}

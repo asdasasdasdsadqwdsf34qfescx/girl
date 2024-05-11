@@ -1,4 +1,4 @@
-const videos = [
+export const witch = [
   {
     src: "https://mega.nz/embed/rNVlHCwY#vH9kVCvYoT0AH3xkti4YwTyHmae_RmXxhbq16ca9bdg",
   },
@@ -32,7 +32,7 @@ export default function Home() {
         gap: "20px",
       }}
     >
-      {videos.map((video, index) => (
+      {witch.map((video, index) => (
         <iframe
           key={index}
           width="640"

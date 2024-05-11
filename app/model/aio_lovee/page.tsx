@@ -1,26 +1,28 @@
-export const m8a8ytip = [
+export const aio_lovee = [
   {
-    src: "https://mega.nz/embed/qQkWXR5R#1JRor8JxNVBM8KSuC1JCqDz-cW-lbPmTffNG41Gy6Ng",
+    src:
+      "https://mega.nz/embed/" +
+      "HM1HSABB#I6rI6lgyVz31vq0aeeWP7QbuTJGYjgDaQP-W78NXB9Q",
   },
   {
     src:
       "https://mega.nz/embed/" +
-      "7IcUmSRI#Kgfu7ktAobigMKAI74yPiIeEoBSCKsI_vMInXP8dYHY",
+      "SdVVnQpY#zM5fL692cmbcMnmTSGtMKc0nZA65F6NSyJQUcjdAkmw",
   },
   {
     src:
       "https://mega.nz/embed/" +
-      "iNtC1bxI#-HW2TPRSMehbdeKIHATw1jY67FdKYtofUtsiTWjSqMU",
+      "3ZcnxKgQ#DpwArcwvEyXlyk1N6BUGo5-pnBmjCnZtaHPdU9Siwls",
   },
   {
     src:
       "https://mega.nz/embed/" +
-      "mNMCQTqY#k0PAZsHwB5w6JI7P6F1DxSjhNUprVfRqCvHgzxYrTsg",
+      "yR0WGIjZ#wwDgOp_b0BHeOLwCoP3FvRegfyQUKlG4YhCCvc4VMyI",
   },
   {
     src:
       "https://mega.nz/embed/" +
-      "Ld80Sb5Q#xdnOjYTz_udzRKHeBwe1Kf8OPoU_g0Ibfgpb6-_heGg",
+      "DN92XTTD#pXlG5a-ml80poTTDSakihccyobkZx8s9T8EzNFyFrlo",
   },
 ];
 
@@ -34,7 +36,7 @@ export default function Home() {
         gap: "20px",
       }}
     >
-      {m8a8ytip.map((video, index) => (
+      {aio_lovee.map((video, index) => (
         <iframe
           key={index}
           width="640"

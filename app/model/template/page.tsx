@@ -1,18 +1,8 @@
-export const lovelyen = [
+export const videos = [
   {
     src:
       "https://mega.nz/embed/" +
-      "jA1VELyY#YmA8tnEXDCDplUluGXNXGuiYuy25iF2fJOyizkFD04s",
-  },
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "fF1wxRJY#v4CzBq1ysqyYXWrroORzrc1ZktNRB-y1pdg3OSN-Q74",
-  },
-  {
-    src:
-      "https://mega.nz/embed/" +
-      "KVNnGSTR#gt3BH8d9g3ypa-FcwlSjgFRAhLZjvyfOIWG1fSe5y_Q",
+      "",
   },
 ];
 
@@ -26,7 +16,7 @@ export default function Home() {
         gap: "20px",
       }}
     >
-      {lovelyen.map((video, index) => (
+      {videos.map((video, index) => (
         <iframe
           key={index}
           width="640"

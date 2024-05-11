@@ -13,6 +13,7 @@ import { o0o } from "../model/o0o/page";
 import { witch } from "../model/witch/page";
 import { alicebels } from "../model/alicebels/page";
 import { allotropp } from "../model/allotropp/page";
+import { aarilaviee } from "../util/modelList";
 
 const MyComponent = () => {
 
@@ -30,6 +31,7 @@ const MyComponent = () => {
     ...witch,
     ...alicebels,
     ...allotropp,
+    ...aarilaviee,
   ];
 
 

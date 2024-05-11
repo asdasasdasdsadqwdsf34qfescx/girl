@@ -7,7 +7,7 @@ const models = [
   { name: "lovelyen", imgSrc: "/_lovelyen.png" },
   { name: "o0o", imgSrc: "/_o0o__.png" },
   { name: "witch", imgSrc: "/_witch__.png" },
-  { name: "8a8ytip", imgSrc: "/8a8ytip.png"},
+  { name: "m8a8ytip", imgSrc: "/8a8ytip.png"},
   { name: "aarilaviee", imgSrc: "/aarilaviee.png"},
   { name: "acemorton", imgSrc: "/ace_morton.png"},
   { name: "ainaschavell", imgSrc: "/ainaschavell.png"},

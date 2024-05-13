@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import { aarilaviee, acemorton, ainaschavell, aio_lovee, akaikoneko, alala, alicebels, allotropp, lovelyen, m8a8ytip, maksim, mercelina, o0o, witch } from "../util/modelList";
+import { aarilaviee, acemorton, ainaschavell, aio_lovee, akaikoneko, alala, alicebels, allotropp, amazongirls, amelia_star20, amelia_sweetyy, amina_artin, lovelyen, m8a8ytip, maksim, mercelina, o0o, witch } from "../util/modelList";
 
 const MyComponent = () => {
 
@@ -19,6 +19,16 @@ const MyComponent = () => {
     ...alicebels,
     ...allotropp,
     ...aarilaviee,
+    ...amazongirls,
+    ...amelia_star20,
+    ...amelia_sweetyy,
+    ...amina_artin,
+    ...amelia_star20,
+    ...amelia_star20,
+    ...amelia_star20,
+    ...amelia_star20,
+    ...amelia_star20
+    
   ];
 
 

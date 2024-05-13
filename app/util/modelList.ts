@@ -262,11 +262,6 @@ export const m8a8ytip = [
   {
     src:
       "https://mega.nz/embed/" +
-      "iNtC1bxI#-HW2TPRSMehbdeKIHATw1jY67FdKYtofUtsiTWjSqMU",
-  },
-  {
-    src:
-      "https://mega.nz/embed/" +
       "mNMCQTqY#k0PAZsHwB5w6JI7P6F1DxSjhNUprVfRqCvHgzxYrTsg",
   },
   {
@@ -381,6 +376,116 @@ export const o0o = [
   ];
 
   
+  export const amazongirls = [
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "6YFAyaZY#daWz2JVlyIcj3JzJEPIQtnDwf4Sz9EwU5ol4QPm87Jg",
+    },
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "nZ1SCSZZ#X6oaYTw_9tMt-kIZXav25F4_fb4CxA1jIyRJ9RoHVu8",
+    },
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "SR83kBob#uLPjlNi5BXHYzyy3WZ-EOW9cDAoUw8EW4m23frlYtCw",
+    },
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "qd9mRaJB#t_UYZ5bv8FCfQM8Jmr00CZnbUHBztPVQLGrYbKhqO94",
+    },
+  ];
+
+  export const amelia_star20 = [
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "3RV1VTLB#8cHVFVriWwgPiHjOX03vpohw8fgawVr1cGykgDEgJi0",
+    },
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "TcFwyQwD#2cdEJNZZBr9Rsr8es90R_bmQhe7VJCnlXEslSYNfEbg",
+    },
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "OcVHwb5a#KrpkyrJhBymyHM_o-3SkeoplGMrc0h37jCtsp7dqbL0",
+    },
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "LV1gDRQA#1AGn4p8RRYVTxf7gWIRYxUVBsnikj6o8ongZ8hwUbgs",
+    },
+  ];
+
+  export const amelia_sweetyy = [
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "6EEEiKhC#IyEJLxOagH_rTQxlm5XWfRuYfHDjkhFKEKwR3-5pI9o",
+    },
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "bN1gGTLb#sCG1cXZbFs-S-OwioYbQSGu50CGUt6HSJW54GXD__pM",
+    },
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "DR82iaIA#8pYAkuAJ8HRXPBnvUh3VihrKmWEVkyM3fGQVUhNfvK4",
+    },
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "KMMFFBCB#VrSsWJBfOL6m2TlDpv8VaLOVh3dYLtb4VxVhscWZfbo",
+    },
+  ];
+
+  export const amina_artin = [
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "TRFmmK5R#aGkhhzntG2YJYRqO0L0AI5q7mySbyaKQSM9kks7Ijpo",
+    },
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "bZVWEZ4I#-uGdrHGgCtejQ3_946aswKl1Qnozv06rR4ITG-h4WaQ",
+    },
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "SEUAyZaD#Si8ubWmW4En_RJTR98tsYj6YEQfqASsMx7H1dF_VQ8o",
+    },
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "LdFQRSDb#5X0spWdrq-bhcTOyCObBx_jjyHK6W8UYx-3yVp7xgSo",
+    },
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "vMtkDAwT#1km4ezBJyruElJUs2XcKtNlrIvHbZh7_aU7G2aJTxwY",
+    },
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "6YE1VKjK#BskiavCdYqqxvhdiH_R6GUCMl6tXNrndfDle63WuIOM",
+    },
+  ];
+
+  export const videos1 = [
+    {
+      src:
+        "https://mega.nz/embed/" +
+        "",
+    },
+  ];
+
   export const videos = [
     {
       src:

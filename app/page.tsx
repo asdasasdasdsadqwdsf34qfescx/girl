@@ -15,6 +15,13 @@ const models = [
   { name: "akaikoneko", imgSrc: "/akai_koneko.png"},
   { name: "alicebels", imgSrc: "/alicebels.png"},
   { name: "allotropp", imgSrc: "/allotropp.png"},
+  { name: "amazongirls", imgSrc: "/amazongirls.png"},
+  { name: "amelia_star20", imgSrc: "/amelia_star20.png"},
+  { name: "amelia_sweetyy", imgSrc: "/amelia_sweetyy.png"},
+  { name: "amina_artin", imgSrc: "/amina_artin.png"},
+  { name: "amazongirls", imgSrc: "/amazongirls.png"},
+  { name: "amazongirls", imgSrc: "/amazongirls.png"},
+  { name: "amazongirls", imgSrc: "/amazongirls.png"},
 
 
 ];

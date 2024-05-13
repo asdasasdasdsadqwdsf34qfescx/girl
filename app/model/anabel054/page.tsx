@@ -1,4 +1,4 @@
-import { anabel054, videos } from "@/app/util/modelList";
+import { anabel054 } from "@/app/util/modelList";
 
 export default function Home() {
   return (

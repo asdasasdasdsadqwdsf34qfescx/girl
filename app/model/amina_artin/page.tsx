@@ -1,4 +1,4 @@
-import { amina_artin, videos } from "@/app/util/modelList";
+import { amina_artin } from "@/app/util/modelList";
 
 export default function Home() {
   return (

@@ -1,4 +1,4 @@
-import { grase_daves, videos } from "@/app/util/modelList";
+import { grase_daves } from "@/app/util/modelList";
 
 export default function Home() {
   return (

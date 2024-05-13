@@ -1,4 +1,4 @@
-import { amelia_sweetyy, videos } from "@/app/util/modelList";
+import { amelia_sweetyy } from "@/app/util/modelList";
 
 export default function Home() {
   return (

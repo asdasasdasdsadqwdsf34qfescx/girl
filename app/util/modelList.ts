@@ -1486,7 +1486,7 @@ export const vidadasdasdeos4a = [
     src: "https://mega.nz/embed/" + "",
   },
 ];
-export const videos4a = [
+export const videos = [
   {
     src: "https://mega.nz/embed/" + "",
   },
